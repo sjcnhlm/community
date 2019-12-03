@@ -1,0 +1,44 @@
+.main{
+    background-color: white;
+    margin: 30px;
+}
+
+body{
+    background-color: #efefef;
+}
+
+.publish_btn{
+    float: right;
+    bottom: 30px;
+}
+
+.note{
+    font-weight:700;
+}
+
+.touxiang{
+    width: 38px;
+}
+
+.text-desc{
+    font-size: 12px;
+    font-weight: normal;
+    color: #999;
+}
+
+.title-font{
+    font-weight:bolder;
+}
+
+.profile .section_nav{
+    margin-top: 15px;
+}
+
+.community_menu{
+    color: #999;
+    font-size: 12px;
+}
+.jumbotron{
+    margin:50px;
+
+}
